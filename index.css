@@ -1,0 +1,34 @@
+body {
+    font-family: 'Square Peg', cursive;
+    font-size: 50px;
+    background-image: linear-gradient(90deg, #dff516,#a7f516,#16f5a7);
+    text-align: center;
+}
+h1{
+    text-shadow: #16f5a7;
+}
+p{
+    font-size: 4rem;
+}
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#increment-btn{
+    background-image:linear-gradient(90deg, #06bbd7,#0adef1,#03e2ea);
+}
+
+#save-btn{
+    background: linear-gradient(90deg, #f59002,#f0d20e,#eae603);
+}
+#reset-btn{
+    background: linear-gradient(90deg,#D16BA5,#86A8E7,#5FFBF1);
+}
